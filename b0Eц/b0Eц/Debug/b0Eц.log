@@ -1,0 +1,7 @@
+﻿  Functions.cpp
+C:\Users\User\Desktop\b0Eц\b0Eц\Functions.cpp(408,28): warning C4305: =: усечение из "__int64" в "int"
+C:\Users\User\Desktop\b0Eц\b0Eц\Functions.cpp(408,15): warning C4309: =: усечение константного значения
+C:\Users\User\Desktop\b0Eц\b0Eц\Functions.cpp(442,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\b0Eц\b0Eц\Functions.cpp(601,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\b0Eц\b0Eц\Functions.cpp(193): warning C4715: ChoiceDifficulty: значение возвращается не при всех путях выполнения
+  b0Eц.vcxproj -> C:\Users\User\Desktop\b0Eц\Debug\b0Eц.exe
